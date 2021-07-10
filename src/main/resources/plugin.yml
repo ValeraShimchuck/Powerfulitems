@@ -1,0 +1,8 @@
+name: PowerfulItems
+main: com.pfitems.Main
+version: 1.0
+api-version: 1.13
+commands:
+  checkPFI:
+    description: information about plugin
+    usage: /checkPFI
